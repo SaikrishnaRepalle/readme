@@ -1,8 +1,10 @@
 # 🏄‍♂️ Krishna
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Designer/VFX Artist/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a product designer born in the India, now living in New York, and studying UI?UX Design and Devlopment at NYIT.
+Currently, I am interested in AR/MR. I've been playing mainly with Unity & C#, but also explored many other platforms like SparkAR, Lens Studio (JavaScript), and SDKs such as Oculus Integration, Lightship ARDK, or XR Interaction Toolkit.
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
