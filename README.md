@@ -29,6 +29,9 @@ I'm Krishna Repalle. A designer focused on user interface and product design fro
 Before design, I have strong artistic skills since childhood. But I started to leave that behind as everyone says, it doesn't help me to get a real job.  I went to college with no backup plan, and my mind was set to follow others' trails. But it was changed when I got selected as lead for the creative arts team in college. I met a friend there who kept insisting that "I should not follow others when I have my own path" and made me realize what I'm good at. Then I started learning different tools and skills required to design a valuable product.
 
 I spent countless days and nights learning skills like UI design, 3d modeling, Prototyping, and how to design any product that adds value to the consumer and fulfills their needs. It took me 8 months to complete all my design works and create my first portfolio.
- **
+ 
+ 
+ 
+ 
 [website]: https://wyjtvhpkhv.editorx.io/krishnarepalle
 [youtube]: https://www.youtube.com/@klsamyak2890
